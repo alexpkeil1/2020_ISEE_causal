@@ -34,3 +34,18 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+analyses/.DS_Store
+analyses/code/.DS_Store
+.DS_Store
+*.textClipping
+*private*
+analyses/code/notready
+
+# tex
+*.log
+*.aux
+*.out
+*.snm
+*.toc
+*.nav
+*.synctex.gz
